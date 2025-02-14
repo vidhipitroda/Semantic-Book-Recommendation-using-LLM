@@ -4,5 +4,5 @@
 4. Doing sentiment analysis using LLMs and extracting the emotions from text (code in the notebook sentiment analysis.ipynb). This will allow users to sort books by their tone, such as how suspenseful, joyful or sad the books are.
 5. Creating a web application using Gradio for users to get book recommendations (code in the file gradio dashboard.py)
 
+<img width="1440" alt="Screenshot 2025-02-14 at 11 05 13 AM" src="https://github.com/user-attachments/assets/6c9a0837-d1ff-4d8a-b160-946e8f67cf7f" />
 
-<img width="1440" alt="Screenshot 2025-02-13 at 3 18 41 PM" src="https://github.com/user-attachments/assets/e9754244-4268-4b34-a47f-299cf5413adc" />
